@@ -1,0 +1,1 @@
+C:\Users\casper\py3env\Scripts\Python.exe C:\Users\casper\source\repos\PythonApplication1\PythonApplication1\PythonApplication1.py
