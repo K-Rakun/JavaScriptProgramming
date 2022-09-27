@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cpjo2gFwISpnGK/VZkEQ23WP7YEID0SI/HUNlV1m53Jn0LD2ONcVtHXw8ikg+Z6Dim9b9/TArTvTRkRMWjcoOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\casper\\source\\repos\\Principles of Programming\\Principles of Programming\\Principles of Programming.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\casper\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}

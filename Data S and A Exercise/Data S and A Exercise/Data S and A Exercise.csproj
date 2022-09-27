@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Data_S_and_A_Exercise</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Company\" />
+  </ItemGroup>
+
+</Project>

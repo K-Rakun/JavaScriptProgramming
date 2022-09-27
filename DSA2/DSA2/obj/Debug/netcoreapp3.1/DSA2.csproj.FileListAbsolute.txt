@@ -1,0 +1,14 @@
+C:\Users\casper\source\repos\DSA2\DSA2\bin\Debug\netcoreapp3.1\DSA2.exe
+C:\Users\casper\source\repos\DSA2\DSA2\bin\Debug\netcoreapp3.1\DSA2.deps.json
+C:\Users\casper\source\repos\DSA2\DSA2\bin\Debug\netcoreapp3.1\DSA2.runtimeconfig.json
+C:\Users\casper\source\repos\DSA2\DSA2\bin\Debug\netcoreapp3.1\DSA2.runtimeconfig.dev.json
+C:\Users\casper\source\repos\DSA2\DSA2\bin\Debug\netcoreapp3.1\DSA2.dll
+C:\Users\casper\source\repos\DSA2\DSA2\bin\Debug\netcoreapp3.1\DSA2.pdb
+C:\Users\casper\source\repos\DSA2\DSA2\obj\Debug\netcoreapp3.1\DSA2.csproj.AssemblyReference.cache
+C:\Users\casper\source\repos\DSA2\DSA2\obj\Debug\netcoreapp3.1\DSA2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casper\source\repos\DSA2\DSA2\obj\Debug\netcoreapp3.1\DSA2.AssemblyInfoInputs.cache
+C:\Users\casper\source\repos\DSA2\DSA2\obj\Debug\netcoreapp3.1\DSA2.AssemblyInfo.cs
+C:\Users\casper\source\repos\DSA2\DSA2\obj\Debug\netcoreapp3.1\DSA2.csproj.CoreCompileInputs.cache
+C:\Users\casper\source\repos\DSA2\DSA2\obj\Debug\netcoreapp3.1\DSA2.dll
+C:\Users\casper\source\repos\DSA2\DSA2\obj\Debug\netcoreapp3.1\DSA2.pdb
+C:\Users\casper\source\repos\DSA2\DSA2\obj\Debug\netcoreapp3.1\DSA2.genruntimeconfig.cache

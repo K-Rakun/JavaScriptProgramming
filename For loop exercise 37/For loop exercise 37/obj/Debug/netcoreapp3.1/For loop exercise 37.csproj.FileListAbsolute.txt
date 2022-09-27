@@ -1,0 +1,14 @@
+C:\Users\casper\source\repos\For loop exercise 37\For loop exercise 37\bin\Debug\netcoreapp3.1\For loop exercise 37.exe
+C:\Users\casper\source\repos\For loop exercise 37\For loop exercise 37\bin\Debug\netcoreapp3.1\For loop exercise 37.deps.json
+C:\Users\casper\source\repos\For loop exercise 37\For loop exercise 37\bin\Debug\netcoreapp3.1\For loop exercise 37.runtimeconfig.json
+C:\Users\casper\source\repos\For loop exercise 37\For loop exercise 37\bin\Debug\netcoreapp3.1\For loop exercise 37.runtimeconfig.dev.json
+C:\Users\casper\source\repos\For loop exercise 37\For loop exercise 37\bin\Debug\netcoreapp3.1\For loop exercise 37.dll
+C:\Users\casper\source\repos\For loop exercise 37\For loop exercise 37\bin\Debug\netcoreapp3.1\For loop exercise 37.pdb
+C:\Users\casper\source\repos\For loop exercise 37\For loop exercise 37\obj\Debug\netcoreapp3.1\For loop exercise 37.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casper\source\repos\For loop exercise 37\For loop exercise 37\obj\Debug\netcoreapp3.1\For loop exercise 37.AssemblyInfoInputs.cache
+C:\Users\casper\source\repos\For loop exercise 37\For loop exercise 37\obj\Debug\netcoreapp3.1\For loop exercise 37.AssemblyInfo.cs
+C:\Users\casper\source\repos\For loop exercise 37\For loop exercise 37\obj\Debug\netcoreapp3.1\For loop exercise 37.csproj.CoreCompileInputs.cache
+C:\Users\casper\source\repos\For loop exercise 37\For loop exercise 37\obj\Debug\netcoreapp3.1\For loop exercise 37.dll
+C:\Users\casper\source\repos\For loop exercise 37\For loop exercise 37\obj\Debug\netcoreapp3.1\For loop exercise 37.pdb
+C:\Users\casper\source\repos\For loop exercise 37\For loop exercise 37\obj\Debug\netcoreapp3.1\For loop exercise 37.genruntimeconfig.cache
+C:\Users\casper\source\repos\For loop exercise 37\For loop exercise 37\obj\Debug\netcoreapp3.1\For loop exercise 37.csproj.AssemblyReference.cache

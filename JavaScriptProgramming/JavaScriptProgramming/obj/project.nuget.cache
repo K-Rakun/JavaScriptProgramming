@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sbD7hfXV2wsLL4IdXBCFFKl4N0dxL8f/IAn08LxDHJGrmz8CP0k7XkkHLcAxLVlIKAS8m6H94N+LdRAZUTWxMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\casper\\source\\repos\\JavaScriptProgramming\\JavaScriptProgramming\\JavaScriptProgramming.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\casper\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+C:\Users\casper\source\repos\CustomDataList\CustomDataList\bin\Debug\netcoreapp3.1\CustomDataList.exe
+C:\Users\casper\source\repos\CustomDataList\CustomDataList\bin\Debug\netcoreapp3.1\CustomDataList.deps.json
+C:\Users\casper\source\repos\CustomDataList\CustomDataList\bin\Debug\netcoreapp3.1\CustomDataList.runtimeconfig.json
+C:\Users\casper\source\repos\CustomDataList\CustomDataList\bin\Debug\netcoreapp3.1\CustomDataList.runtimeconfig.dev.json
+C:\Users\casper\source\repos\CustomDataList\CustomDataList\bin\Debug\netcoreapp3.1\CustomDataList.dll
+C:\Users\casper\source\repos\CustomDataList\CustomDataList\bin\Debug\netcoreapp3.1\CustomDataList.pdb
+C:\Users\casper\source\repos\CustomDataList\CustomDataList\obj\Debug\netcoreapp3.1\CustomDataList.csproj.AssemblyReference.cache
+C:\Users\casper\source\repos\CustomDataList\CustomDataList\obj\Debug\netcoreapp3.1\CustomDataList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casper\source\repos\CustomDataList\CustomDataList\obj\Debug\netcoreapp3.1\CustomDataList.AssemblyInfoInputs.cache
+C:\Users\casper\source\repos\CustomDataList\CustomDataList\obj\Debug\netcoreapp3.1\CustomDataList.AssemblyInfo.cs
+C:\Users\casper\source\repos\CustomDataList\CustomDataList\obj\Debug\netcoreapp3.1\CustomDataList.csproj.CoreCompileInputs.cache
+C:\Users\casper\source\repos\CustomDataList\CustomDataList\obj\Debug\netcoreapp3.1\CustomDataList.dll
+C:\Users\casper\source\repos\CustomDataList\CustomDataList\obj\Debug\netcoreapp3.1\CustomDataList.pdb
+C:\Users\casper\source\repos\CustomDataList\CustomDataList\obj\Debug\netcoreapp3.1\CustomDataList.genruntimeconfig.cache

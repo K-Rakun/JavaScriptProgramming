@@ -1,0 +1,14 @@
+C:\Users\casper\source\repos\PetShop\PetShop\bin\Debug\netcoreapp3.1\PetShop.exe
+C:\Users\casper\source\repos\PetShop\PetShop\bin\Debug\netcoreapp3.1\PetShop.deps.json
+C:\Users\casper\source\repos\PetShop\PetShop\bin\Debug\netcoreapp3.1\PetShop.runtimeconfig.json
+C:\Users\casper\source\repos\PetShop\PetShop\bin\Debug\netcoreapp3.1\PetShop.runtimeconfig.dev.json
+C:\Users\casper\source\repos\PetShop\PetShop\bin\Debug\netcoreapp3.1\PetShop.dll
+C:\Users\casper\source\repos\PetShop\PetShop\bin\Debug\netcoreapp3.1\PetShop.pdb
+C:\Users\casper\source\repos\PetShop\PetShop\obj\Debug\netcoreapp3.1\PetShop.csproj.AssemblyReference.cache
+C:\Users\casper\source\repos\PetShop\PetShop\obj\Debug\netcoreapp3.1\PetShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casper\source\repos\PetShop\PetShop\obj\Debug\netcoreapp3.1\PetShop.AssemblyInfoInputs.cache
+C:\Users\casper\source\repos\PetShop\PetShop\obj\Debug\netcoreapp3.1\PetShop.AssemblyInfo.cs
+C:\Users\casper\source\repos\PetShop\PetShop\obj\Debug\netcoreapp3.1\PetShop.csproj.CoreCompileInputs.cache
+C:\Users\casper\source\repos\PetShop\PetShop\obj\Debug\netcoreapp3.1\PetShop.dll
+C:\Users\casper\source\repos\PetShop\PetShop\obj\Debug\netcoreapp3.1\PetShop.pdb
+C:\Users\casper\source\repos\PetShop\PetShop\obj\Debug\netcoreapp3.1\PetShop.genruntimeconfig.cache

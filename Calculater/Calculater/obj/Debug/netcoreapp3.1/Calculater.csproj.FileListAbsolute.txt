@@ -1,0 +1,14 @@
+C:\Users\casper\source\repos\Calculater\Calculater\bin\Debug\netcoreapp3.1\Calculater.exe
+C:\Users\casper\source\repos\Calculater\Calculater\bin\Debug\netcoreapp3.1\Calculater.deps.json
+C:\Users\casper\source\repos\Calculater\Calculater\bin\Debug\netcoreapp3.1\Calculater.runtimeconfig.json
+C:\Users\casper\source\repos\Calculater\Calculater\bin\Debug\netcoreapp3.1\Calculater.runtimeconfig.dev.json
+C:\Users\casper\source\repos\Calculater\Calculater\bin\Debug\netcoreapp3.1\Calculater.dll
+C:\Users\casper\source\repos\Calculater\Calculater\bin\Debug\netcoreapp3.1\Calculater.pdb
+C:\Users\casper\source\repos\Calculater\Calculater\obj\Debug\netcoreapp3.1\Calculater.csproj.AssemblyReference.cache
+C:\Users\casper\source\repos\Calculater\Calculater\obj\Debug\netcoreapp3.1\Calculater.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casper\source\repos\Calculater\Calculater\obj\Debug\netcoreapp3.1\Calculater.AssemblyInfoInputs.cache
+C:\Users\casper\source\repos\Calculater\Calculater\obj\Debug\netcoreapp3.1\Calculater.AssemblyInfo.cs
+C:\Users\casper\source\repos\Calculater\Calculater\obj\Debug\netcoreapp3.1\Calculater.csproj.CoreCompileInputs.cache
+C:\Users\casper\source\repos\Calculater\Calculater\obj\Debug\netcoreapp3.1\Calculater.dll
+C:\Users\casper\source\repos\Calculater\Calculater\obj\Debug\netcoreapp3.1\Calculater.pdb
+C:\Users\casper\source\repos\Calculater\Calculater\obj\Debug\netcoreapp3.1\Calculater.genruntimeconfig.cache

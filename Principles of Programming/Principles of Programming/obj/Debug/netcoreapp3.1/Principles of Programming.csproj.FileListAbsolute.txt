@@ -1,0 +1,14 @@
+C:\Users\casper\source\repos\Principles of Programming\Principles of Programming\bin\Debug\netcoreapp3.1\Principles of Programming.exe
+C:\Users\casper\source\repos\Principles of Programming\Principles of Programming\bin\Debug\netcoreapp3.1\Principles of Programming.deps.json
+C:\Users\casper\source\repos\Principles of Programming\Principles of Programming\bin\Debug\netcoreapp3.1\Principles of Programming.runtimeconfig.json
+C:\Users\casper\source\repos\Principles of Programming\Principles of Programming\bin\Debug\netcoreapp3.1\Principles of Programming.runtimeconfig.dev.json
+C:\Users\casper\source\repos\Principles of Programming\Principles of Programming\bin\Debug\netcoreapp3.1\Principles of Programming.dll
+C:\Users\casper\source\repos\Principles of Programming\Principles of Programming\bin\Debug\netcoreapp3.1\Principles of Programming.pdb
+C:\Users\casper\source\repos\Principles of Programming\Principles of Programming\obj\Debug\netcoreapp3.1\Principles of Programming.csproj.AssemblyReference.cache
+C:\Users\casper\source\repos\Principles of Programming\Principles of Programming\obj\Debug\netcoreapp3.1\Principles of Programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casper\source\repos\Principles of Programming\Principles of Programming\obj\Debug\netcoreapp3.1\Principles of Programming.AssemblyInfoInputs.cache
+C:\Users\casper\source\repos\Principles of Programming\Principles of Programming\obj\Debug\netcoreapp3.1\Principles of Programming.AssemblyInfo.cs
+C:\Users\casper\source\repos\Principles of Programming\Principles of Programming\obj\Debug\netcoreapp3.1\Principles of Programming.csproj.CoreCompileInputs.cache
+C:\Users\casper\source\repos\Principles of Programming\Principles of Programming\obj\Debug\netcoreapp3.1\Principles of Programming.dll
+C:\Users\casper\source\repos\Principles of Programming\Principles of Programming\obj\Debug\netcoreapp3.1\Principles of Programming.pdb
+C:\Users\casper\source\repos\Principles of Programming\Principles of Programming\obj\Debug\netcoreapp3.1\Principles of Programming.genruntimeconfig.cache
